@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.6.0",
     "babel": "^6.23.0",
     "moment": "^2.29.4",
     "rxjs": "^6.3.3",
